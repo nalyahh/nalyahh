@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm a developer, creative technologist, and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies connect.
+I'm a aspiring developer, theatre kid and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies connect.
 
 🎭 Fun Fact: When I'm not coding, I work in theatre as a stage manager and lighting/tech director!
 
