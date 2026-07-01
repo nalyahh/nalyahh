@@ -9,7 +9,7 @@
   </a>
 </p>
 
-I'm an aspiring developer, theatre kid, and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies can connect to solve real-world problems.
+I'm an aspiring developer, theatre kid, and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies connect.
 
 Fun fact: When I'm not coding, I work in theatre as a stage manager and lighting/tech director!
 
@@ -44,5 +44,5 @@ These cards automatically update with my latest GitHub activity!
 
 ### What I'm Working On
 
-- **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project with a deployed REST API for scraping data and a scheduled worker that automatically syncs curated outputs into Notion.
-- **Inventory App:** A project I'm currently building to track items, quantities, and updates more efficiently while sharpening my full-stack development skills.
+- **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project with a deployed REST API for scraping data and a scheduled worker that automatically syncs results into Notion databases.
+- **[CMTS Inventory](https://github.com/nalyahh/CMTS-inventory):** A props and equipment inventory management system for Columbia Musical Theatre Society and partner theatre groups, with role-based access, item and production management, and checkout/check-in tracking to make theatre operations more organized.
