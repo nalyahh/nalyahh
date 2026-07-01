@@ -1,4 +1,4 @@
-# Hi there, I'm Nalyah! 👋💖
+# Hi there, I'm Nalyah!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/nalyah" target="_blank">
@@ -11,11 +11,11 @@
 
 I'm a aspiring developer, theatre kid and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies connect.
 
-🎭 Fun Fact: When I'm not coding, I work in theatre as a stage manager and lighting/tech director!
+ Fun Fact: When I'm not coding, I work in theatre as a stage manager and lighting/tech director!
 
 ---
 
-### 🎀 My Tech Stack 🎀
+### Tech Stack
 
 Here are some of the technologies I'm working with:
 
@@ -31,8 +31,7 @@ Here are some of the technologies I'm working with:
 
 ---
 
-### 📊 My GitHub Stats 📊
-
+### My GitHub Stats
 These cards automatically update with my latest GitHub activity!
 
 <p align="center">
@@ -43,6 +42,6 @@ These cards automatically update with my latest GitHub activity!
 
 ---
 
-### 🔭 What I'm Working On 🔭
+### What I'm Working On
 
 - **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project featuring a deployed REST API that scrapes data and a scheduled worker that automatically populates my Notion database.
