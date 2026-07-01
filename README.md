@@ -31,18 +31,13 @@ Here are some of the technologies I'm working with:
 
 ---
 
-### My GitHub Stats
-These cards automatically update with my latest GitHub activity!
+### GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nalyahh&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" alt="Nalyah's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalyahh&layout=compact&theme=radical&cache_seconds=1800" alt="Nalyah's Top Languages"/>
-</p>
+![Nalyah's GitHub Activity](https://ghchart.rshah.org/nalyahh)
 
 ---
 
 ### What I'm Working On
 
-- **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project with a deployed REST API for scraping data and a scheduled worker that automatically syncs results into Notion databases.
-- **[CMTS Inventory](https://github.com/nalyahh/CMTS-inventory):** A props and equipment inventory management system for Columbia Musical Theatre Society and partner theatre groups, with role-based access, item and production management, and checkout/check-in tracking to make theatre operations more organized.
+- **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project with a deployed REST API for scraping data and a scheduled worker that automatically syncs to Notion.
+- **[CMTS Inventory](https://github.com/nalyahh/CMTS-inventory):** A props and equipment inventory management system for Columbia Musical Theatre Society and partner theatre groups, with role-based access and searchable records.
