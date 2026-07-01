@@ -9,9 +9,9 @@
   </a>
 </p>
 
-I'm a aspiring developer, theatre kid and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies connect.
+I'm an aspiring developer, theatre kid, and student at **Columbia University** studying Computer Science and Biomedical Engineering! I love building fun, practical tools and learning how different technologies can connect to solve real-world problems.
 
- Fun Fact: When I'm not coding, I work in theatre as a stage manager and lighting/tech director!
+Fun fact: When I'm not coding, I work in theatre as a stage manager and lighting/tech director!
 
 ---
 
@@ -35,13 +35,14 @@ Here are some of the technologies I'm working with:
 These cards automatically update with my latest GitHub activity!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nalyahh&show_icons=true&theme=radical&rank_icon=github" alt="Nalyah's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nalyahh&show_icons=true&theme=radical&rank_icon=github&cache_seconds=1800" alt="Nalyah's GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalyahh&layout=compact&theme=radical" alt="Nalyah's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalyahh&layout=compact&theme=radical&cache_seconds=1800" alt="Nalyah's Top Languages"/>
 </p>
 
 ---
 
 ### What I'm Working On
 
-- **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project featuring a deployed REST API that scrapes data and a scheduled worker that automatically populates my Notion database.
+- **[AO3 Scraper & Notion Automation Suite](https://github.com/nalyahh/ao3-api):** A multi-module Java project with a deployed REST API for scraping data and a scheduled worker that automatically syncs curated outputs into Notion.
+- **Inventory App:** A project I'm currently building to track items, quantities, and updates more efficiently while sharpening my full-stack development skills.
